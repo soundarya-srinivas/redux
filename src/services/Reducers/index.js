@@ -1,0 +1,8 @@
+import React from 'react'
+import {combineReducers} from 'redux'
+import cardItems from './reducer'
+
+
+export default combineReducers({
+    cardItems,
+})

@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+.item{
+  border:1px solid black;
+  width:300px;
+}
+.cart{
+float: left;
+}
 
 .App-logo {
   height: 40vmin;
